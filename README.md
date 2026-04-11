@@ -1,6 +1,6 @@
 # README
 
-This MODERA repository contains a list of scripts for **Mosaicking**, **Decomposing** and **Error Analysing** InSAR Line-of-Sight velocities derived from InSAR time series analysis tools such as LiCSBAS (https://github.com/comet-licsar/LiCSBAS).
+This Modera repository contains a list of scripts for **Mosaicking**, **Decomposing** and **Error Analysing** InSAR Line-of-Sight velocities derived from InSAR time series analysis tools such as LiCSBAS (https://github.com/comet-licsar/LiCSBAS).
 
 If you use these scripts, please cite:
 - Ou, Q., Daout, S., Weiss, J. R., Shen, L., Lazecký, M., Wright, T. J., & Parsons, B. E. (2022). Large-scale interseismic strain mapping of the NE Tibetan Plateau from Sentinel-1 interferometry. Journal of Geophysical Research: Solid Earth, 127, e2022JB024176. https://doi.org/10.1029/2022JB024176

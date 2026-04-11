@@ -9,7 +9,7 @@
 # If you use this script for your study, please cite:
 # Ou, Q., Daout, S., Weiss, J. R., Shen, L., Lazecký, M., Wright, T. J., & Parsons, B. E. (2022). Large-scale interseismic strain mapping of the NE Tibetan Plateau from Sentinel-1 interferometry. Journal of Geophysical Research: Solid Earth, 127, e2022JB024176. https://doi.org/10.1029/2022JB024176
 ####################
-from 0_merge_tif import OpenTif
+from merge_tif import OpenTif
 from pathlib import Path
 import glob
 import os
